@@ -117,6 +117,38 @@
 - ![React Native](https://img.shields.io/badge/-React_Native-green?style=flat-square&logo=react&logoColor=white)
   - Created captivating mobile applications with React Native.
   - Ensured a seamless experience across iOS and Android platforms.
+ 
+## Deployment Expertise:
+
+### Hosting Platforms:
+- ![Infomaniak](https://img.shields.io/badge/-Infomaniak-008fd5?style=flat-square)
+  - Hosted magical web applications on Infomaniak for reliable and secure performance.
+
+- ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+  - Deployed and showcased enchanting front-end projects with Vercel's seamless deployment.
+
+- ![GitHub Pages (Actions)](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
+  - Automated deployment of static websites using GitHub Actions for continuous enchantment.
+
+- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+  - Deployed dynamic web applications with ease on Heroku's cloud platform.
+
+### Mobile App Deployment:
+- ![Google Play](https://img.shields.io/badge/-Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)
+  - Published captivating mobile applications on the Google Play Store for widespread enchantment.
+
+### Cloud Infrastructure:
+- ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  - Leveraged GCP services for scalable and reliable cloud solutions, including app deployment.
+
+### Version Control:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  - Utilized Git for version control, ensuring smooth collaboration and deployment workflows.
+
+### Containerization:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  - Containerized applications for consistent and scalable deployments across various environments.
+
 
 ### Other Tools:
 - Git, GitHub, GitLab: Managed and collaborated on magical projects using version control.
