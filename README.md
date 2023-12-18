@@ -35,4 +35,32 @@
 
 - Once turned a pumpkin into a fully functional taxi with the wave of my coding wand! Fast Ride was born, complete with Laravel-spun wheels, React Native dashboard, and Firebase-powered turbo boost.
 
-🎉 Let the coding magic begin! 🚀✨
+---
+
+# 🚀 Projects
+
+## [Kalini Code (Ecommerce)]([https://kalini-code.example.com](https://play.google.com/store/apps/details?id=com.kader09.sdshop&pcampaignid=web_share))
+
+- Created an enchanted Ecommerce platform using Laravel spells and React charms.
+- Customers can shop for magical items with a seamless checkout experience.
+- Payment spells cast using the most secure incantations.
+
+## [SamApp (Hotel Apartment Rent)]([https://samapp.example.com](https://play.google.com/store/apps/details?id=com.kader09.SamApp&pcampaignid=web_share))
+
+- Designed and developed a spellbinding Hotel Apartment Rental application.
+- Users can effortlessly book stays in enchanted locations with a sprinkle of React Native magic.
+- Implemented a reservation system that even wizards would envy.
+
+## [Kalini Course (Taxi App)]([https://kalinicourse.example.com](https://play.google.com/store/apps/details?id=com.kader09.cab_client&pcampaignid=web_share))
+
+- Conjured up a Taxi App using Laravel potions and React Native scrolls.
+- Fast Ride 2.0! Enhanced features for both clients and drivers with a touch of Firebase enchantment.
+- Implemented a dynamic pricing system that adjusts based on lunar phases.
+
+## [Catmash (Best Cats)]([https://catmash.example.com](https://catmash.sedam-shop.com/))
+
+- Crafted a delightful experience for cat enthusiasts to vote on the best cats.
+- Utilized React spells for a responsive front-end and Laravel wizardry for a robust back-end.
+- Cat pictures served with a side of purrsonality.
+
+Feel free to explore these enchanted realms and let me know your thoughts! 🧙‍♂️✨
