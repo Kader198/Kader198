@@ -24,7 +24,7 @@
 
 ## 📫 How to reach me: ...
 
-- 🧙 LinkedIn: [https://www.linkedin.com/in/abdel-kader-m-2b5029191/](#)
+- 🧙 LinkedIn: https://www.linkedin.com/in/abdel-kader-m-2b5029191/(#)
 - 📧 Email: maguiskader0@gmail.com
 
 ## 😄 Pronouns: ...
