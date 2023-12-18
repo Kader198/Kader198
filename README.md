@@ -149,6 +149,22 @@
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - Containerized applications for consistent and scalable deployments across various environments.
 
+graph TD
+  A[React] -->|4| G[Communication]
+  B[Next.js] -->|3| H[Team Collaboration]
+  C[TypeScript] -->|4| I[Problem Solving]
+  D[React Query] -->|3| J[Adaptability]
+  E[Redux] -->|4| K[Creativity]
+  F[Zustand] -->|3| L[Time Management]
+  M[Laravel] -->|4| N[Leadership]
+  O[Spring] -->|3| P[Critical Thinking]
+  Q[Django] -->|4| R[Empathy]
+  S[MySQL] -->|3| T[Emotional Intelligence]
+  U[Firebase] -->|4| V[Decision Making]
+  W[GCP] -->|3| X[Conflict Resolution]
+  Y[GitHub/GitLab] -->|4| Z[Positive Attitude]
+  AA[Docker] -->|3| AB[Open-mindedness]
+
 
 ### Other Tools:
 - Git, GitHub, GitLab: Managed and collaborated on magical projects using version control.
