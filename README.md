@@ -149,21 +149,23 @@
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   - Containerized applications for consistent and scalable deployments across various environments.
 
-graph TD
-  A[React] -->|4| G[Communication]
-  B[Next.js] -->|3| H[Team Collaboration]
-  C[TypeScript] -->|4| I[Problem Solving]
-  D[React Query] -->|3| J[Adaptability]
-  E[Redux] -->|4| K[Creativity]
-  F[Zustand] -->|3| L[Time Management]
-  M[Laravel] -->|4| N[Leadership]
-  O[Spring] -->|3| P[Critical Thinking]
-  Q[Django] -->|4| R[Empathy]
-  S[MySQL] -->|3| T[Emotional Intelligence]
-  U[Firebase] -->|4| V[Decision Making]
-  W[GCP] -->|3| X[Conflict Resolution]
-  Y[GitHub/GitLab] -->|4| Z[Positive Attitude]
-  AA[Docker] -->|3| AB[Open-mindedness]
+| Technical Skills | Proficiency (%) | Soft Skills                | Proficiency (%) |
+|------------------|------------------|---------------------------|------------------|
+| React            | 80               | Communication             | 80               |
+| Next.js          | 60               | Team Collaboration        | 60               |
+| TypeScript       | 80               | Problem Solving           | 80               |
+| React Query      | 60               | Adaptability              | 60               |
+| Redux            | 80               | Creativity                | 80               |
+| Zustand          | 60               | Time Management           | 60               |
+| Laravel          | 80               | Leadership                | 80               |
+| Spring           | 60               | Critical Thinking         | 60               |
+| Django           | 80               | Empathy                   | 80               |
+| MySQL            | 60               | Emotional Intelligence    | 60               |
+| Firebase         | 80               | Decision Making           | 80               |
+| GCP              | 60               | Conflict Resolution       | 60               |
+| GitHub/GitLab    | 80               | Positive Attitude         | 80               |
+| Docker           | 60               | Open-mindedness           | 60               |
+
 
 
 ### Other Tools:
