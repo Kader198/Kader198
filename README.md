@@ -45,7 +45,7 @@
 - Payment spells cast using the most secure incantations.
   
 
-## [SamApp (Hotel Apartment Rent) 🏨](https://play.google.com/store/apps/details?id=com.kader09.SamApp)
+## [SamApp (Hotels && Apartments Rent) 🏨](https://play.google.com/store/apps/details?id=com.kader09.SamApp)
 - Designed and developed a spellbinding Hotel Apartment Rental application.
 - Users can effortlessly book stays in enchanted locations with a sprinkle of React Native magic.
 - Implemented a reservation system that even wizards would envy.
