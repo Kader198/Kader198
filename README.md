@@ -24,8 +24,8 @@
 
 ## 📫 How to reach me: ...
 
-- 🧙 LinkedIn: [Your LinkedIn Profile](#)
-- 📧 Email: your.email@example.com
+- 🧙 LinkedIn: [https://www.linkedin.com/in/abdel-kader-m-2b5029191/](#)
+- 📧 Email: maguiskader0@gmail.com
 
 ## 😄 Pronouns: ...
 
