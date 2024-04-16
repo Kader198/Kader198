@@ -1,5 +1,7 @@
 # 👨‍💻 Welcome to My Developer Playground!
 
+<a href="https://app.daily.dev/kader09"><img src="https://api.daily.dev/devcards/v2/vyqb0aPDkMzHLKhMrL0RY.png?type=default&r=wd0" width="356" alt="Maguis Kader's Dev Card"/></a>
+
 
 ## 🔭 I’m currently working on...
 
