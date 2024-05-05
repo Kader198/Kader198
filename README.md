@@ -1,9 +1,9 @@
 # 👨‍💻 Welcome to My Developer Playground!
 
-<a href="https://app.daily.dev/kader09"><img src="https://api.daily.dev/devcards/v2/vyqb0aPDkMzHLKhMrL0RY.png?type=default&r=wd0" width="356" alt="Maguis Kader's Dev Card"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kader198)](https://github.com/Kader198/github-readme-stats)
 
+<a href="https://app.daily.dev/kader09" style="display: inline-block;"><img src="https://api.daily.dev/devcards/v2/vyqb0aPDkMzHLKhMrL0RY.png?type=default&r=wd0" width="356" alt="Maguis Kader's Dev Card"/></a>
+<a href="https://github.com/Kader198/github-readme-stats" style="display: inline-block;">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kader198)](https://github.com/Kader198/github-readme-stats)</a>
 
 
 ## 🔭 I’m currently working on...
