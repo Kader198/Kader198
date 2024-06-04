@@ -3,8 +3,8 @@
 
 
 <a href="https://app.daily.dev/kader09" style="display: inline-block;"><img src="https://api.daily.dev/devcards/v2/vyqb0aPDkMzHLKhMrL0RY.png?type=default&r=wd0" width="356" alt="Maguis Kader's Dev Card"/></a>
-<a href="https://github.com/Kader198/github-readme-stats" style="display: inline-block;">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kader198)](https://github.com/Kader198/github-readme-stats)</a>
 
+![kader198's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kader198&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 ## 🔭 I’m currently working on...
 
