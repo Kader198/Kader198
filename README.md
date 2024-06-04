@@ -6,6 +6,10 @@
 
 ![kader198's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kader198&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
+![kader198's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kader198&theme=monokai&hide_border=false)
+
+![kader198's Stats](https://github-readme-stats.vercel.app/api?username=kader198&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+
 ## 🔭 I’m currently working on...
 
 - Crafting cutting-edge modules for the Ministry of Employment and Vocational Training in Mauritania with TEKWINE, using the magical powers of Laravel.
