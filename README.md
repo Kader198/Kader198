@@ -8,11 +8,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kader198&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="kader198's Stats" style="width: calc(33.33% - 10px); margin: 5px;">
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto; width: max-content;">    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhacen-code&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="elhacen-code's Top Languages" style="width: calc(33.33% - 10px); margin: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elhacen-code&theme=monokai&hide_border=false" alt="kader198's Streak" style="width: calc(33.33% - 10px); margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=elhacen-code&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="kader198's Stats" style="width: calc(33.33% - 10px); margin: 5px;">
-  </div>
 ## 🔭 I’m currently working on...
 
 - Crafting cutting-edge modules for the Ministry of Employment and Vocational Training in Mauritania with TEKWINE, using the magical powers of Laravel.
