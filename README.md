@@ -1,11 +1,7 @@
 # 👨‍💻 Welcome to My Developer Playground!
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto; width: max-content;">
-
-![Elhacen GitHub stats](https://github-readme-stats.vercel.app/api?username=elhacen-code&show_icons=true&theme=transparent)
-
-    
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto; width: max-content;">    
     <a href="https://app.daily.dev/kader09"><img src="https://api.daily.dev/devcards/v2/vyqb0aPDkMzHLKhMrL0RY.png?type=wide&r=08a" width="652" alt="Maguis Kader's Dev Card"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kader198&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="kader198's Top Languages" style="width: calc(33.33% - 10px); margin: 5px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kader198&theme=monokai&hide_border=false" alt="kader198's Streak" style="width: calc(33.33% - 10px); margin: 5px;">
