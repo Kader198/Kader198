@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My Developer Playground!
 
-<div style="display: flex;width: 100%; justify-content: center;justify-items: center">
+<div style="display: flex;width: 100%; justify-content: center;justify-items: center; margin-left: 20px">
     <a href="https://app.daily.dev/kader09"><img src="https://api.daily.dev/devcards/v2/vyqb0aPDkMzHLKhMrL0RY.png?type=wide&r=08a" width="652" alt="Maguis Kader's Dev Card"/></a>
 </div>
 
